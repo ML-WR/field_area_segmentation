@@ -1,2 +1,6 @@
 # field_area_segmentation
-solafuneのコンペ。https://solafune.com/ja/competitions/d91572d9-1680-4b9e-b372-25e71093f81a?menu=about&amp;tab=
+solafuneのコンペ（https://solafune.com/ja/competitions/d91572d9-1680-4b9e-b372-25e71093f81a?menu=about&amp;tab=）
+
+### 概要
+衛星データは、農業分野において重要な応用があります。これには作物の種類の特定や生育状態の把握といった多様な解決策が含まれます。この応用の基盤となるのが、畑の領域を精確に検出する技術です。
+本コンペティションでは、Sentinel-2衛星によって撮影された世界中の農地の画像を用い、畑ごとにインスタンスセグメンテーションを行うことに挑戦していただきます。この技術的挑戦を通じて、農業における衛星データのさらなる活用を促進し、既存技術の精度を向上させることを目指します。
